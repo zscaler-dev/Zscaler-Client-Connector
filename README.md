@@ -1,4 +1,4 @@
-# Zscaler Client Connector
+#### Zscaler Client Connector: Simplified Cloud Security
 
 **Zscaler Client Connector** is a lightweight application designed to provide seamless, secure, and optimized access to cloud resources, corporate applications, and internet services. Built with enterprise-grade security and user convenience in mind, this client ensures that users, regardless of their location, can securely connect to the resources they need without compromising performance or data integrity.
 
